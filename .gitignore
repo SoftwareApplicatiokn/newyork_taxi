@@ -1,4 +1,5 @@
 #dataset
 *.parquet
 boston.ipynb
+boston_predict.ipynb
 *.csv
